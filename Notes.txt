@@ -5,6 +5,9 @@
 Higher order function       ->      Returns a function or receives one as parameter
 Full function               ->      Is fully defined. Every input has an output
 Partial function            ->      Not fully defined. Not every input has an output
+Lambda                      ->      Anonymous Function
+Curry                       ->      Parameter seperately
+Uncurry                     ->      Parameter as tuple
 
 #
 #   Lambda Calculus
