@@ -1,3 +1,6 @@
+mulCurrySugar x y = x * y
+mulUncurrySugar (x, y) = x * y
+
 mulCurry = \x -> \y -> x * y
 mulUncurry = \(x,y) -> x * y
 

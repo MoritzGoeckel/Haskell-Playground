@@ -1,0 +1,18 @@
+#
+#   General
+#
+
+Higher order function       ->      Returns a function or receives one as parameter
+Full function               ->      Is fully defined. Every input has an output
+Partial function            ->      Not fully defined. Not every input has an output
+
+#
+#   Lambda Calculus
+#
+
+Variable
+Application
+Abstraction
+
+Alpha reduction
+Beta reduction
